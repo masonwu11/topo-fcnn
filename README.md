@@ -5,6 +5,16 @@
 This repository written in Python contains implementations of clustering connectomes of neural networks. It serves as the code appendix of the AAAI 2025 paper:
 - Functional Connectomes of Neural Networks
 
+Please cite our paper if you use this code in your research:
+```
+@inproceedings{songdechakraiwutwu2024functional,
+  title={Functional connectomes of neural networks},
+  author={Songdechakraiwut, Tananun and Wu, Yutong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2025}
+}
+```
+
 There are mainly two types of files in the directory: **pipeline** and **job** files. Additionally, a `runtime` folder under the main directory contains implementations for running runtime experiments of all methods.
 
 ## Environment Setup
